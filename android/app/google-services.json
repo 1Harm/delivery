@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562754852525",
+    "project_id": "deliveat-fd86d",
+    "storage_bucket": "deliveat-fd86d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562754852525:android:ed3bd87d7e41835d491824",
+        "android_client_info": {
+          "package_name": "com.example.deliveat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5f42AFbu2Z5ITiH_3Q2_2dMYseaIND0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
